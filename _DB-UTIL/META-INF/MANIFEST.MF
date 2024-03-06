@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: _DB-UTIL
+Bundle-SymbolicName: _DB-UTIL
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: _DB-UTIL.jar,
+ GGG/Desktop/eclipse/mysql-connector-java-8.0.20.jar
+Export-Package: dbutil
